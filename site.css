@@ -1,0 +1,276 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 24 Apr 2022, 14:36:05
+    Author     : User
+*/
+
+#certificationbody{
+    
+    background-image: url("image1.JPG");
+    height:100vh;
+    background-size:cover;
+    background-position: center;
+    background-attachment: fixed;
+    
+}
+
+
+
+
+
+body{
+    
+    background-image: url("image2.JPG");
+    height:100vh;
+    background-size:cover;
+    background-position: center;
+    background-attachment: fixed;
+    
+    
+}
+
+
+ .thumbnail1:hover {
+     width:80px;
+     height:auto;
+     display:block;
+     z-index:999;
+     cursor: pointer;
+     
+     
+     
+     
+     -webkit-transition-property: all;
+     -webkit-transition-duration: 0.8s;
+     -webkit-transition-timing-function: ease;
+
+}
+
+.thumbnail1:hover {
+    transform: scale(6);
+}
+
+
+
+.thumbnail2:hover {
+     width:80px;
+     height:auto;
+     display:block;
+     z-index:999;
+     cursor: pointer;
+     
+     
+     
+     
+     -webkit-transition-property: all;
+     -webkit-transition-duration: 0.8s;
+     -webkit-transition-timing-function: ease;
+
+}
+
+.thumbnail2:hover {
+    transform: scale(6);
+}
+
+
+.thumbnail3:hover {
+     width:80px;
+     height:auto;
+     display:block;
+     z-index:999;
+     cursor: pointer;
+     
+     
+     
+     
+     -webkit-transition-property: all;
+     -webkit-transition-duration: 0.8s;
+     -webkit-transition-timing-function: ease;
+
+}
+
+.thumbnail3:hover {
+    transform: scale(6);
+}
+
+.thumbnail4:hover {
+     width:80px;
+     height:auto;
+     display:block;
+     z-index:999;
+     cursor: pointer;
+     
+     
+     
+     
+     -webkit-transition-property: all;
+     -webkit-transition-duration: 0.8s;
+     -webkit-transition-timing-function: ease;
+
+}
+
+.thumbnail4:hover {
+    transform: scale(6);
+}
+
+
+.thumbnail5:hover {
+     width:80px;
+     height:auto;
+     display:block;
+     z-index:999;
+     cursor: pointer;
+     
+     
+     
+     
+     -webkit-transition-property: all;
+     -webkit-transition-duration: 0.8s;
+     -webkit-transition-timing-function: ease;
+
+}
+
+.thumbnail5:hover {
+    transform: scale(6);
+}
+
+
+
+#set0{
+    
+    color:white;
+    text-align: center;
+    padding-top: 60px;
+    font-size: 50;
+    
+}
+
+
+#set1{
+    
+    color:white;
+    text-align: center;
+    padding-top: 60px;
+    font-size: 50;
+    
+}
+
+#set2{
+    
+    color:white;
+    text-align:center;
+    padding-top:60px;
+       
+}
+
+#set3{
+    
+    color:white;
+    text-align:center;
+    padding-top:60px;
+       
+    
+}
+
+h2{
+    
+    text-align: center;
+}
+
+.set4{
+    padding-left: 60px;
+    padding-right: 60px;
+    
+}
+
+
+
+
+.menu{
+    
+    float:right;
+    list-style:none;   
+}
+
+.menu li{
+    display: inline-block;
+    
+}
+
+.menu li a{
+
+    color:white;
+    text-decoration:none;
+
+    padding: 50px 20px;
+    font-family:serif;
+    font-style: oblique;
+    
+   
+}
+
+.menu li a:hover{
+    
+    text-shadow: 2px 2px 4px #FFFFFF;
+ 
+    
+}
+
+.set5{
+    
+    color:white;
+    text-align:center;
+}
+
+.media{
+    background-color: rbga(0,0,0,0.6);
+   
+    padding-bottom: 80px;
+    padding-left: 60px;
+    padding-right: 60px;
+    
+    
+}
+ 
+#mediatags{
+    
+    font-family:monospace; 
+    color:white;
+  
+}
+
+#copy{
+ 
+    font-family:monospace; 
+    color:white;
+    
+    float:right;
+    display: inline-block;
+    
+    padding-right: 600px;
+    
+}
+
+.margin1{
+    
+    background-color: rbga(0,0,0,0.6);
+   
+    padding-bottom: 80px;
+    padding-left: 60px;
+    padding-right: 60px;
+    
+    
+}#set6{
+ 
+    font-family:monospace; 
+    color:white;
+       
+    display: inline-block;
+    padding-left: 0px;
+    
+}
+
