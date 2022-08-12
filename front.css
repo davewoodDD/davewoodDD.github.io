@@ -1,0 +1,170 @@
+
+/* 
+    Created on : 21 Jun 2022, 10:19:14
+    Author     : User
+*/
+
+*{
+    padding:0;
+    margin:0  
+}
+
+@font-face{
+       
+    
+}
+
+
+/* Center child elements 
+body,*/
+.website-counter {
+  display: flex;
+  
+  
+ justify-content: center;
+  align-items: center;
+  /* flex-direction: column;*/
+  
+  
+  text-align: left;
+  color: white;
+}
+
+
+
+
+
+
+.container{
+    
+   height:100vh;
+   display: flex;
+    
+}
+
+section{
+    
+    height:100%;
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    
+    
+    
+    flex:1;
+    
+}
+
+section:hover{
+    flex: 2;
+    transition: all .5s ease-in-out;
+    
+}
+
+.left{
+    
+    background-image: url("rigimage1.jpg");
+    
+    
+    opacity: 0.3;
+    background-size: cover;
+    background-position:center;
+    
+    /*
+    background-blend-mode: multiply;
+    */
+    
+     transition: all .5s ease-in-out;
+    
+    
+}
+
+.left:hover{
+    
+    opacity:1;
+    transition: all .5s ease-in-out;
+}
+
+ 
+
+
+.center{
+    
+    background-image: url("rigimage2.jpg");
+ 
+    flex:2;
+    background-size: cover;
+    background-position:center;
+    /*
+    background-blend-mode: multiply;
+    */
+    
+     transition: all .5s ease-in-out;
+    
+    
+}
+
+.main:hover{
+    
+    flex:3;
+    transition: all .5s ease-in-out;
+}
+
+.right{
+    background-image: url("rigimage7.jpg");
+    opacity: 0.3;
+    
+    background-size: cover;
+    background-position:center;
+    /*
+    background-blend-mode: multiply;
+    */   
+    
+    
+     transition: all .5s ease-in-out;
+     
+     text-align:center;
+}
+
+.right:hover{
+    
+    opacity:1;
+      transition: all .5s ease-in-out;
+    
+}
+
+h1{
+
+    font-family:serif;
+    font-style: oblique;
+    
+    font-size: 45px;
+    
+    opacity: 0.8;
+    
+    position: relative;
+    
+    
+     /* 
+    text-shadow: 2px 2px 4px #FFFFFF;
+    
+       */
+    
+}
+
+
+
+h1:hover{
+    
+      color: ghostwhite;
+      opacity: 0.9;
+    
+      transition: all .5s ease-in-out;
+    
+      text-shadow: 2px 2px 4px #000000;
+        
+}
+
+
+ 
+
