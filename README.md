@@ -13,4 +13,4 @@ All other images are Private
 So if using any code - please remove the personal typescript & use ur own images
 
 
-Regards the code , i am newbie - so it may not be professionally or tidily laid out or operationally effecient
+Regards the code , i am newbie - so it may not be professionally or tidily laid out or operationally efficient
